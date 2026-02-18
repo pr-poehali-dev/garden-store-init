@@ -23,6 +23,14 @@ const catalogGroups = [
     name: "Семена",
     icon: "Sprout",
   },
+  {
+    name: "Уход",
+    icon: "Droplets",
+  },
+  {
+    name: "Декор",
+    icon: "Gem",
+  },
 ];
 
 const categories = [
@@ -45,6 +53,10 @@ const categories = [
   { name: "Жимолость", group: "Ягодные", emoji: "🫒", count: 16, color: "bg-blue-50 text-blue-700 border-blue-200" },
   { name: "Малина", group: "Ягодные", emoji: "🍇", count: 30, color: "bg-pink-50 text-pink-700 border-pink-200" },
   { name: "Калина", group: "Ягодные", emoji: "🔴", count: 12, color: "bg-orange-50 text-orange-700 border-orange-200" },
+  { name: "Удобрения", group: "Уход", emoji: "🧪", count: 64, color: "bg-amber-50 text-amber-700 border-amber-200" },
+  { name: "Химия для сада", group: "Уход", emoji: "🧴", count: 42, color: "bg-teal-50 text-teal-700 border-teal-200" },
+  { name: "Садовый декор", group: "Декор", emoji: "🏡", count: 36, color: "bg-sky-50 text-sky-700 border-sky-200" },
+  { name: "Кованые изделия", group: "Декор", emoji: "⚒️", count: 28, color: "bg-stone-100 text-stone-700 border-stone-300" },
 ];
 
 const CatalogSection = () => {
