@@ -10,7 +10,7 @@ const Footer = () => {
               <div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center">
                 <Icon name="Sprout" size={16} className="text-primary-foreground" />
               </div>
-              <span className="font-heading text-lg font-bold text-background">ЗелёныйДом</span>
+              <span className="font-heading text-lg font-bold text-background">Изумрудный уголок</span>
             </div>
             <p className="text-sm text-background/60 leading-relaxed">
               Всё для создания и ухода за вашим идеальным садом с 2014 года.
@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-background/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-background/40">© 2026 ЗелёныйДом. Все права защищены.</p>
+          <p className="text-sm text-background/40">© 2026 Изумрудный уголок. Все права защищены.</p>
           <div className="flex gap-4 text-sm text-background/40">
             <a href="#" className="hover:text-background/70 transition-colors">Политика конфиденциальности</a>
             <a href="#" className="hover:text-background/70 transition-colors">Оферта</a>

@@ -21,7 +21,7 @@ const Header = () => {
           <div className="w-9 h-9 rounded-full bg-primary flex items-center justify-center">
             <Icon name="Sprout" size={20} className="text-primary-foreground" />
           </div>
-          <span className="font-heading text-xl font-bold tracking-tight">ЗелёныйДом</span>
+          <span className="font-heading text-xl font-bold tracking-tight">Изумрудный уголок</span>
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
